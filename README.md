@@ -8,7 +8,7 @@
 ![mobile](http://apps.kgfsl.com/proliveapitest/logs/MobileApp.png)
 
 2.Favourite Task List – You can add your Frequent Task IDs in App’s Favourite List, so it’s very easy to update your work log entry.
-   ####Steps
+####Steps
 1. On a particular task check out the mark as favourite radio button to save your task in favourite list.
 2. Touch the refresh button on the top to get your list update and you can view your favourite task by touching star icon.
 
