@@ -8,8 +8,10 @@
 ![mobile](http://apps.kgfsl.com/proliveapitest/logs/MobileApp.png)
 
 2.Favourite Task List – You can add your Frequent Task IDs in App’s Favourite List, so it’s very easy to update your work log entry.
-Step 1: On a particular task check out the mark as favourite radio button to save your task in favourite list.
-Step 2: Touch the refresh button on the top to get your list update and you can view your favourite task by touching star icon.
+   ####Steps
+1. On a particular task check out the mark as favourite radio button to save your task in favourite list.
+2. Touch the refresh button on the top to get your list update and you can view your favourite task by touching star icon.
+
 
 ![mobile](http://apps.kgfsl.com/proliveapitest/logs/MobileApp1.png)
 
@@ -21,8 +23,10 @@ You can update your work log entry even in offline. Updated tasks will be in sta
 How to get updated version?
 For Existing ProLive mobile app users update your ProLive App from the Tech Assist portal as u did last. 
 New to ProLive App? Don’t worry, here are the steps to get your ProLive Application in your Gadget.
-Step 1: open Tech Assist portal, login using your credentials
-Step 2: go to quick links from menu and touch Download ProLive Mobile App to Download.
-Step 3: Install the ProLive App and login using your ProLive Credentials.
+####Steps
+1. open Tech Assist portal, login using your credentials. 
+2. go to quick links from menu and touch Download ProLive Mobile App to Download.
+3. Install the ProLive App and login using your ProLive Credentials.
+
 
 ![mobile](http://apps.kgfsl.com/proliveapitest/logs/MobileApp3.png)
